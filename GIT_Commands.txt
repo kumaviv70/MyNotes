@@ -1,0 +1,23 @@
+
+
+$ ssh-keygen -t rsa
+$ ssh -T git@github.com
+$ git clone git@github.com:kumaviv70/MyThirdJavaProject.git
+$ git pull
+$ git push
+
+
+
+$ cd /c/users/Ruchira/neweclipse-workspace/
+$ git init
+$ git add .
+$ git commit -m "my first commit"
+$ git revert HEAD
+$ git reset --hard HEAD~1
+$ git log
+$ git status
+
+
+https://github.com/kumaviv70/MyFirstJavaProject.git
+
+

@@ -1,0 +1,2 @@
+# MyNotes
+SQL, GIT
